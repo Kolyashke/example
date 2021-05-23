@@ -1,0 +1,110 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 160px;
+    padding: 0px;
+    justify-content: space-around;
+}
+.nav_img{
+    margin-left: 120px;
+}
+.nav_a{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 120px;
+}
+
+
+.nav_a a{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size:22px;
+    font-weight:500;
+    color: #000;
+}
+.resume{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.resume-text{
+    margin-bottom: 50px;
+}
+.header{
+    background: url("img/cool-background.png");
+}
+.spanchik{
+    margin-top: 50px;
+}
+.resume-img{
+    margin-bottom: 60px;
+}
+#img-span{
+    margin-right: 9px;
+    margin-left: 9px;
+}
+.item{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+p{
+    font-size: 11pt;
+}
+.title{
+    padding-top: 30px;
+}
+.title-main{
+    text-align: center;
+}
+.title-text{
+    text-align: center;
+}
+.title__main{
+    text-align: center;
+    color: #95d9fb;
+}
+.title__text{
+    text-align: center;
+    color: #fff;
+}
+.title_{
+    background:#000;
+    margin-top: 45px;
+}
+.button{
+    font-family: 'PT Sans', sans-serif;
+    background: #e0413b;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 5px;
+    width: 126px;
+    border: 0;
+    padding: 15px 0;
+    cursor:pointer;
+}
+.form_input{
+    background: #fff;
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+    border-radius: 5px;
+    width: 580px;
+    padding: 15px 0;
+    margin-right: 21px;
+    border: 0;
+}
+.footer{
+    background: #000;
+}
+.footer-info{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    padding: 50px 0 94px;
+    width: 184px;
+    margin: 0 auto;
+}
