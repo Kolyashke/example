@@ -115,7 +115,19 @@ p {
 	margin:60px auto 0;
 }
 
+
 /* 2 экран*/
 
+.feature {
+    margin-bottom: 65px;
+}
 
+.feature__icon {
+    font-size: 50px;
+    margin-right: 37px;
+    color: #000
+}
 
+.feature__text {
+    color: #898989
+}
